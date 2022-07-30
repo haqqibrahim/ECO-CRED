@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/css/user-signup.css" />
+    <link rel="stylesheet" href="Circular Std Font.otf" />
+  </head>
+
+  <body>
+    <div class="main">
+      <img class="name" src="/img/eco.png" alt="" />
+      <div class="box">
+        <h2 class="sign">
+          Consumer-Coperation <br />
+          Sign Up
+        </h2>
+
+        <form method="post" action="/user-register">
+          <div class="inputA">
+            <label for="fullname">Full Name/Company Name</label>
+            <input type="text" name="fullname" id="" />
+          </div>
+          <div class="inputB">
+            <label for="fullname">Email/Company Email</label>
+            <input type="email" name="username" id="" />
+          </div>
+          <div class="inputC">
+            <label for="fullname">Carbon Goal</label>
+            <input type="text" name="carbon_goal" id="" />
+          </div>
+          <div class="inputD">
+            <label for="password">Password</label>
+            <input type="password" name="password" id="" />
+          </div>
+          <button type="submit" class="jw">PROCEED</button>
+        </form>
+      </div>
+      <h4 class="atext">
+        Have a current account? <a class="log" href="/user-signin">Log in</a>
+      </h4>
+      <h4 class="atext" style="margin-top: 50px">
+        Signup as a Project
+        <a class="log" href="/green-project-register">project-register</a>
+      </h4>
+    </div>
+  </body>
+</html>

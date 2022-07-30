@@ -1,0 +1,334 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    position: relative;
+    width: auto;
+    height: 1500px;
+    background: #ffffff;
+}
+
+.name {
+    position: absolute;
+    width: 233px;
+    height: 109px;
+    left: -10px;
+    top: 34px;
+}
+
+.tc {
+    position: absolute;
+    width: 154px;
+    height: 27px;
+    left: 679px;
+    top: 68px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+}
+
+.pt {
+    position: absolute;
+    width: 103px;
+    height: 27px;
+    left: 883px;
+    top: 68px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+}
+
+.ec {
+    position: absolute;
+    width: 108px;
+    height: 27px;
+    left: 1036px;
+    top: 68px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+}
+
+.ab {
+    position: absolute;
+    width: 54px;
+    height: 27px;
+    left: 1203px;
+    top: 68px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+}
+
+.jw {
+    position: absolute;
+    width: 85px;
+    height: 40px;
+    left: calc(50% - 85px/2 + 593.5px);
+    bottom: 1573px;
+    background: #00CD44;
+    border-radius: 22.5px;
+}
+
+.log {
+    position: absolute;
+    width: 53px;
+    height: 26px;
+    left: 15px;
+    top: 5px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #ffffff;
+}
+
+.da {
+    position: absolute;
+    width: 338px;
+    height: 98px;
+    left: 50px;
+    top: 195px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 90px;
+    color: #000000;
+}
+
+.arec {
+    position: absolute;
+    width: 366px;
+    height: 190px;
+    left: 50px;
+    top: 305px;
+    background: #E3FAEA;
+}
+
+.ano {
+    position: absolute;
+    width: 112px;
+    height: 177px;
+    left: 195px;
+    top: 370px;
+    color: #00CD44;
+}
+
+.brec {
+    position: absolute;
+    width: 366px;
+    height: 190px;
+    left: 490px;
+    top: 305px;
+    background: #E3FAEA;
+}
+
+.bno {
+    position: absolute;
+    width: 112px;
+    height: 177px;
+    left: 641px;
+    top: 370px;
+    color: #00CD44;
+}
+
+.crec {
+    position: absolute;
+    width: 366px;
+    height: 190px;
+    left: 910px;
+    top: 305px;
+    background: #E3FAEA;
+}
+
+.cno {
+    position: absolute;
+    width: 112px;
+    height: 177px;
+    left: 1061px;
+    top: 370px;
+    color: #00CD44;
+}
+
+.dash {
+    position: absolute;
+    width: 1212px;
+    height: 400px;
+    left: 50px;
+    top: 642px;
+    border: 1px solid #00CD44
+}
+
+.js {
+    position: absolute;
+    width: 344px;
+    height: 88px;
+    left: 260px;
+    top: 1105px;
+    background: #00CD44;
+    border-color: #00CD44;
+    border-radius: 50px;
+}
+.jsb {
+    position: absolute;
+    width: 344px;
+    height: 88px;
+    left: 260px;
+    top: 1105px;
+    background: #00CD44;
+    border-color: #00CD44;
+    border-radius: 20px;
+}
+
+.jb {
+    position: absolute;
+    width: 344px;
+    height: 88px;
+    left: 721px;
+    top: 1105px;
+    background: #cd0000;
+    border-color: #cd0000;
+    border-radius: 50px;
+}
+
+.buy {
+    position: absolute;
+    width: 50px;
+    height: 41px;
+    left: 140px;
+    top: 22px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 36px;
+    color: #ffffff;
+}
+
+.sell {
+    position: absolute;
+    width: 50px;
+    height: 41px;
+    left: 140px;
+    top: 22px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 36px;
+    color: #ffffff;
+}
+
+.bot {
+    box-sizing: border-box;
+    position: absolute;
+    width: auto;
+    height: 269px;
+    left: 0px;
+    top: 1231px;
+    border-width: 1px 0px;
+    border-style: solid;
+    border-color: #000000;
+}
+
+.rect {
+    box-sizing: border-box;
+    position: absolute;
+    width: 1512px;
+    height: 169px;
+    left: 0px;
+    top: 1671px;
+    border-width: 1px 0px;
+    border-style: solid;
+    border-color: #000000;
+}
+
+.ho {
+    position: absolute;
+    width: 54px;
+    height: 27px;
+    left: 120px;
+    top: 1700px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #000000;
+}
+
+.abo {
+    position: absolute;
+    width: 54px;
+    height: 27px;
+    left: 324px;
+    top: 1700px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #000000;
+}
+
+.sol {
+    position: absolute;
+    width: 54px;
+    height: 27px;
+    left: 509px;
+    top: 1700px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #000000;
+}
+
+.mov {
+    position: absolute;
+    width: 54px;
+    height: 27px;
+    left: 658px;
+    top: 1700px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #000000;
+}
+
+.line {
+    position: absolute;
+    width: 900px;
+    height: 0px;
+    left: 120px;
+    top: 1740px;
+    border: 1px solid #000000;
+}
+
+.lastt {
+    position: absolute;
+    width: 339px;
+    height: 102px;
+    left: 56px;
+    top: 1720px;
+}

@@ -1,0 +1,258 @@
+label {
+    font-weight: bold;
+}
+.inputA {
+    margin-top: 120px;
+    margin-left: 50px;
+}
+.inputB {
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.inputC {
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.inputD {
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.inputE {
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.inputF {
+    margin-top: 40px;
+    margin-left: 50px;
+}
+input {
+    margin-top: 20px;
+   border-radius: 10px;
+    border: 1px solid black;
+    width: 500px;
+    height: 50px;
+}
+
+.main {
+    position: relative;
+    width: auto;
+    height: 1266px;
+    background: linear-gradient(52.85deg, #00CD44 -32.77%, #F7F7F7 113.17%);
+}
+
+.name {
+    position: absolute;
+    width: 224px;
+    height: 130px;
+    left: 550px;
+    top: 75px;
+}
+
+.box {
+    position: absolute;
+    width: 606px;
+    height: 937px;
+    left: 363px;
+    top: 217px;
+    background: #ffffff;
+    border: 1px solid #E3E3E3;
+    border-radius: 10PX;
+}
+.boxb {
+    position: absolute;
+    width: 606px;
+    height: 1020px;
+    left: 363px;
+    top: 217px;
+    background: #ffffff;
+    border: 1px solid #E3E3E3;
+    border-radius: 10PX;
+}
+
+.sign {
+    position: absolute;
+    left: 150px;
+    font-family: 'Circular Std', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    color: #000000;
+}
+
+.fn {
+    position: absolute;
+    width: 82px;
+    height: 23px;
+    left: 90px;
+    top: 136px;
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 450;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000000;
+}
+
+.abox {
+    box-sizing: border-box;
+    position: absolute;
+    width: 426px;
+    height: 60px;
+    left: 90px;
+    top: 187px;
+    border: 1px solid #B9B9B9;
+    border-radius: 10px;
+}
+
+.cem {
+    position: absolute;
+    width: 150px;
+    height: 23px;
+    left: 90px;
+    top: 247px;
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 450;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000000;
+}
+
+.bbox {
+    box-sizing: border-box;
+    position: absolute;
+    width: 426px;
+    height: 60px;
+    left: 90px;
+    top: 298px;
+    border: 1px solid #B9B9B9;
+    border-radius: 10px;
+}
+
+.cor {
+    position: absolute;
+    width: 150px;
+    height: 23px;
+    left: 90px;
+    top: 358px;
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 450;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000000;
+}
+
+.cbox {
+    box-sizing: border-box;
+    position: absolute;
+    width: 426px;
+    height: 60px;
+    left: 90px;
+    top: 409px;
+    border: 1px solid #B9B9B9;
+    border-radius: 10px;
+}
+
+.ind {
+    position: absolute;
+    width: 150px;
+    height: 23px;
+    left: 90px;
+    top: 469px;
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 450;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000000;
+}
+
+.dbox {
+    box-sizing: border-box;
+    position: absolute;
+    width: 426px;
+    height: 60px;
+    left: 90px;
+    top: 520px;
+    border: 1px solid #B9B9B9;
+    border-radius: 10px;
+}
+
+.cg {
+    position: absolute;
+    width: 150px;
+    height: 23px;
+    left: 90px;
+    top: 580px;
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 450;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000000;
+}
+
+.ebox {
+    box-sizing: border-box;
+    position: absolute;
+    width: 426px;
+    height: 56px;
+    left: 90px;
+    top: 631px;
+    border: 1px solid #B9B9B9;
+    border-radius: 10px;
+}
+
+.jw {
+    position: absolute;
+    width: 426px;
+    height: 60px;
+    left: 90px;
+    top: 741px;
+    background: #00CD44;
+    border-radius: 10px;
+}
+.jwb {
+    position: absolute;
+    width: 426px;
+    height: 60px;
+    left: 90px;
+    top: 900px;
+    background: #00CD44;
+    border-radius: 10px;
+}
+
+.text {
+    /* position: absolute; */
+    width: 84px;
+    height: 23px;
+    left: 171px;
+    /* top: 19px; */
+    font-family: 'Circular Std', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
+.atext {
+    position: absolute;
+    width: 400px;
+    height: 23px;
+    left: 470px;
+    top: 1140px;
+    font-family: 'Circular Std', sans-serif;
+    font-style: normal;
+    font-weight: 450;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: center;
+    color: #5C5C5C;
+}
+
+.log {
+    color: #ffffff;
+}
